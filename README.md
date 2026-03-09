@@ -60,7 +60,6 @@ document-scanner-cv/
 │   └── scanned_output1.jpg
 |    └── scanned_output3.jpg
 |    └── scanned_output4.jpg
-├── LEARNING.md
 └── README.md
 ```
 
