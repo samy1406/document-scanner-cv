@@ -75,4 +75,3 @@ document-scanner-cv/
 ---
 
 
-<p align="center">Made with ❤️ by <a href="https://github.com/samy1406">Samy1406</a></p>
